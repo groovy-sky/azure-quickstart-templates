@@ -61,7 +61,7 @@ This template will deploy:
 
 ## Licenses and Costs
 
-This Barracuda Web Application Firewall is the PAYG model and doesn't require the user to license it, it will be licensed automatically after the instance is launched first time and user will be charged hourly for Barracuda Web Application Firewall Software on Microsoft. Click [here](https://azure.microsoft.com/marketplace/partners/barracudanetworks/waf/#hourly) for pricing details.
+This Barracuda Web Application Firewall is the PAYG model and doesn't require the user to license it, it will be licensed automatically after the instance is launched first time and user will be charged hourly for Barracuda Web Application Firewall Software on Microsoft. 
 
 ## Prerequisites
 
