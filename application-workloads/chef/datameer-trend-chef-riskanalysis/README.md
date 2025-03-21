@@ -66,7 +66,7 @@ Customers benefit greatly from solution templates because of the ease with which
 
 **Business Intelligence Solution Template 001**
 *Disclaimer*: These are intended as pilot solutions and not production ready.
-Please [contact us](azuremarketplace@avyanconsulting.com) if you need further info or support on this solution.
+Please [contact us](mailto:azuremarketplace@avyanconsulting.com) if you need further info or support on this solution.
 
 ##  3. Licenses & Costs
 In its current state, solution templates come with licenses built-in – there may be a BYOL option included in the future. The solution template will be deployed in the Customer’s Azure subscription, and the Customer will incur Azure usage charges associated with running the solution stack.
